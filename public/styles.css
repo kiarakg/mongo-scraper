@@ -1,0 +1,19 @@
+.jumbotron {
+    margin-top: 0px;
+
+    background-size: cover;
+    min-height: 70vh;
+    position: relative;
+  }
+  
+  body {
+
+  }
+  
+  .lead,
+  .mainTitle {
+    text-align: center;
+    font-weight: bold;
+    color: steelblue;
+    font: italic;
+  }
